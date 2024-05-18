@@ -41,4 +41,9 @@
       <Filter>Assets</Filter>
     </CopyFileToFolders>
   </ItemGroup>
+  <ItemGroup>
+    <Image Include="..\Assets\Background2.png">
+      <Filter>Assets</Filter>
+    </Image>
+  </ItemGroup>
 </Project>
